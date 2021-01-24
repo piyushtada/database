@@ -5,11 +5,7 @@ Working On Now: No
 
 Notes
 
-[Formula symbols ](https://www.notion.so/Formula-symbols-d2b3cb2615bd4b7ca31163119e21378a)
 
-[Questions](https://www.notion.so/Questions-2250a78393a749c8a3a8d3b41e79b2c0)
-
-[to anki](https://www.notion.so/to-anki-7115ffdf61f44011ac680c09de0b16ae)
 
 - Aggregation
 
@@ -73,7 +69,7 @@ Notes
     The type mechanism makes it possible to create many objects of the same type using an appropriate constructor.
     The following example shows a graphical representation of an object type.1
 
-    ![Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-17_at_09.39.11.png](Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-17_at_09.39.11.png)
+    ![src/Screenshot_2021-01-17_at_09.39.11.png](src/Screenshot_2021-01-17_at_09.39.11.png)
 
 - Data Mart
 
@@ -531,11 +527,11 @@ Notes
 
     when we have a primary key which is a combination of two primary keys in this situation we have some attributes which are not complitly dependent on the whole key.
 
-    ![Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-20_at_15.24.48.png](Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-20_at_15.24.48.png)
+    ![src/Screenshot_2021-01-20_at_15.24.48.png](src/Screenshot_2021-01-20_at_15.24.48.png)
 
-    ![Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-20_at_15.25.14.png](Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-20_at_15.25.14.png)
+    ![src/Screenshot_2021-01-20_at_15.25.14.png](src/Screenshot_2021-01-20_at_15.25.14.png)
 
-    ![Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-20_at_15.25.45.png](Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-20_at_15.25.45.png)
+    ![src/Screenshot_2021-01-20_at_15.25.45.png](src/Screenshot_2021-01-20_at_15.25.45.png)
 
     ^^ this is partial dependency
 
@@ -551,7 +547,7 @@ Notes
 
     When a non primary key is dependet on another non primary key.
 
-    ![Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-20_at_15.28.28.png](Database%20Notes%20ad9705b2eaa147cfade9fb3ad940f374/Screenshot_2021-01-20_at_15.28.28.png)
+    ![src/Screenshot_2021-01-20_at_15.28.28.png](src/Screenshot_2021-01-20_at_15.28.28.png)
 
 - What is the Advantage of removing Transitive Dependency **in dbms?**
 
